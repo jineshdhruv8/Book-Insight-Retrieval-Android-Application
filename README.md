@@ -12,3 +12,7 @@ README
 “\Android\app\src\main\java\com\example\jinesh\amazonbookreview\ConnectToServer.java” file. Change the IP address on line 23 to the new IP address.
 8.	Build the App on Emulator or any Android Device
 9.	Install and Run the APP
+
+
+Link for Presentation & Demo:
+https://drive.google.com/drive/folders/0B8VNSLc5SYzISThnVFFaX1Q4NDQ?usp=sharing
